@@ -1,0 +1,12 @@
+{
+	"nodos": [
+		{
+		    "access_token_key": "",
+		    "consumer_key": "",
+		    "access_token_secret": "",
+		    "consumer_secret": "",
+		    "proxy": ""
+		}
+	]
+}
+
